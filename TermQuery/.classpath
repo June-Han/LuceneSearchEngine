@@ -6,8 +6,36 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/JavaReferenceJars/lucene-9.1.0/modules/lucene-analysis-common-9.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/JavaReferenceJars/lucene-9.1.0/modules/lucene-core-9.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/JavaReferenceJars/lucene-9.1.0/modules/lucene-queryparser-9.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-analysis-common-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-analysis-icu-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-analysis-kuromoji-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-analysis-morfologik-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-analysis-nori-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-analysis-opennlp-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-analysis-phonetic-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-analysis-smartcn-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-analysis-stempel-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-backward-codecs-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-benchmark-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-classification-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-codecs-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-core-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-demo-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-expressions-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-facet-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-grouping-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-highlighter-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-join-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-luke-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-memory-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-misc-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-monitor-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-queries-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-queryparser-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-replicator-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-sandbox-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-spatial3d-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-spatial-extras-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/lucene-9.2.0/modules/lucene-suggest-9.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
