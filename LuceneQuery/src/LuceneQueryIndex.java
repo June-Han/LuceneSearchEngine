@@ -12,6 +12,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -45,8 +46,10 @@ public class LuceneQueryIndex {
             //org.apache.lucene.store.Directory instance
 	        Directory dir = FSDirectory.open( Paths.get(indexPath) );
 	         
-	        //analyzer with the default stop words
-	        Analyzer analyzer = new StandardAnalyzer();
+	        //analyzer with the default stop words (default stop words,tokenising and stemming 
+	        //Analyzer analyzer = new StandardAnalyzer();
+	        //EnglishPossessiveFilter, KeywordMarkerFilter, PorterStemFilter
+	        Analyzer analyzer = new EnglishAnalyzer();
 	         
 	        //IndexWriter Configuration
 	        IndexWriterConfig iwc = new IndexWriterConfig(analyzer);
